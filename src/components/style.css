@@ -9,6 +9,7 @@
     text-transform: capitalize;
     font-weight: bold;
     text-shadow: 0px 25px 15px #d2c5ff;
+    font-family:'Josefin Sans','sans-serif';
 }
 .img_div img{
     width: 200px;

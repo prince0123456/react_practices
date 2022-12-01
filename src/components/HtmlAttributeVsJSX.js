@@ -5,7 +5,7 @@ function HtmlAttributeVsJSX() {
     const img2="https://picsum.photos/250/400"
   return (
     <>
-        <h contentEditable="true">HTML HtmlAttributeVsJSX</h>
+        <h1>HTML HtmlAttributeVsJSX</h1>
         <div>
             <img src={img1} alt='random img'/>
             <img src={img1} alt='random img'/>
